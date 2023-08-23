@@ -4,8 +4,4 @@ on the agenda:
 Chuck
 Brisket
 Rib
-Plate
-Loin
 Flank
-Round
-Shank

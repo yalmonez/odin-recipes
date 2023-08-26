@@ -1,0 +1,20 @@
+h1 {
+    font-family: CopperPot,Helvetica,sans-serif;
+}
+
+.cow-svg {
+    width: 100%;
+    height: auto;
+  }
+  
+  .area {
+    fill: rgb(177, 49, 49);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .area#Chuck:hover {opacity: 0.5;}
+  .area#Brisket:hover {opacity: 0.5;}
+  .area#Flank:hover {opacity: 0.5;}
+  .area#Rib:hover {opacity: 0.5;}
+
